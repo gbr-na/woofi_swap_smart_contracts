@@ -1,4 +1,10 @@
-/*
+gh pr create \
+  --repo woonetwork/woofi_swap_smart_contracts \
+    --head gbr-na:assign_reviewer \
+      --title "Fix: theft of unclaimed yield" \
+        --body $'Closes #147\n\nReproduces and fixes the theft of unclaimed yield vulnerability reported in Immunefi report #68586.\n\nScreenshots:\n![Screenshot 1](immunefi.com)\n![Screenshot 2](immunefi.com)'
+        https://github.com/apps/github-project-automation
+        /*
 
 ░██╗░░░░░░░██╗░█████╗░░█████╗░░░░░░░███████╗██╗
 ░██║░░██╗░░██║██╔══██╗██╔══██╗░░░░░░██╔════╝██║
