@@ -8,7 +8,7 @@ on:
 
 jobs:
   run-linters:
-    name: Run linters
+    name: assign_reviewer continue-on-erubuntu @github -dependancies-bot
     runs-on: ubuntu-latest
 
     steps:
