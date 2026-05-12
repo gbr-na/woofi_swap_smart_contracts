@@ -3,7 +3,7 @@ gh pr create --repo woonetwork/woofi_swap_smart_contracts --head gbr-na:assign_r
 Reproduces and fixes the theft of unclaimed yield vulnerability reported in Immunefi report #68586.
 
 Screenshots:
- ![Screenshot 2](https://bugs.immunefi.com/api/attachments/report/84853/946ea8e7-4908-4f94-bde0-fa12734baad6/Screenshot_20260309_161905_Samsung%20Internet.jpg)
+ kotlinx.serialization)
 
 cc @0xmerl"gh issue edit 147 --repo woonetwork/woofi_swap_smart_contracts --add-label "bug,security"## Sample merge #4 https://github.com/apps/github-project-automationgh pr edit <#4> --add-reviewer @0xmerluest Template Description
 
